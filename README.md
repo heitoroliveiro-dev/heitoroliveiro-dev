@@ -9,8 +9,12 @@ Estou no 3º semestre de **Análise e Desenvolvimento de Sistemas** (PUC Minas),
 
     Minhas experiências acadêmicas incluem projetos com C# e ASP.NET Core MVC.
 
-- [Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=heitoroliveiro-dev&layout=compact)
-- [Estatísticas](https://github-readme-stats.vercel.app/api?username=heitoroliveiro-dev&show_icons=true&theme=radical)
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitoroliveiro-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitoroliveiro-dev&layout=compact&langs_count=7&theme=radical"/>
+</div>
 ---
 
 ### 📫 Entre em contato:
