@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ## Hello, I'm Heitor Oliveiro 👋 Full-Stack Web Developer in Training
 
