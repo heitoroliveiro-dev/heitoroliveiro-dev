@@ -13,6 +13,13 @@ My academic experiences include projects with C# and ASP.NET Core MVC.
 
 ---
 
+## 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitoroliveiro-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitoroliveiro-dev&layout=compact&langs_count=7&theme=radical"/>
+
+---
+
 ### 📫 Get in touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-oliveiro-8b4885181/) [![Outlook](https://img.shields.io/badge/Outlook-0077B5?style=for-the-badge&logo=outlook&logoColor=white)](heitoroliveiro.dev@outlook.com)
 
