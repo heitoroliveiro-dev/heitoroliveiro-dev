@@ -13,6 +13,9 @@ My academic experiences include projects with C# and ASP.NET Core MVC.
 
 ---
 
+Stack:
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/-CodeIgniter-EE4822?style=flat-square&logo=codeigniter&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react-native&logoColor=black"/> <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+
 ### 📫 Get in touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-oliveiro-8b4885181/) [![Outlook](https://img.shields.io/badge/Outlook-0077B5?style=for-the-badge&logo=outlook&logoColor=white)](heitoroliveiro.dev@outlook.com)
 
