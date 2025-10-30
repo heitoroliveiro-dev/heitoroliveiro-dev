@@ -15,6 +15,7 @@ My academic experiences include projects with C# and ASP.NET Core MVC.
 
 <div align="center">
   [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=heitoroliveiro-dev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heitoroliveiro-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
