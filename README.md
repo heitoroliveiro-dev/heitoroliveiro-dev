@@ -6,11 +6,6 @@ I'm in the 3rd semester of **Systems Analysis and Development** (PUC Minas), whe
 
 💻 I work with great enthusiasm on both my academic and professional activities, and my focus is on transforming real-world challenges into digital solutions.
 
-#### **Stack:**  
-🐘 PHP | 🔥 CodeIgniter | 💻 JavaScript | ⚛️ React | 🖌️ CSS | 🗃️ MySql
-
-My academic experiences include projects with C# and ASP.NET Core MVC.
-
 ---
 
 <div align="center">
