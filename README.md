@@ -1,6 +1,6 @@
 <div align="left">
 
-## Hello, I'm Heitor Oliveiro 👋 Full-Stack Web Developer in Training
+## Hello, I'm Heitor Oliveiro 👋 Full-Stack Developer
 
 I'm in the 3rd semester of **Systems Analysis and Development** (PUC Minas), where I apply agile methodologies (SCRUM) and develop a solid foundation in programming. This semester, we are working on projects focused on mobile development using React Native.
 
