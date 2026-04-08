@@ -21,7 +21,7 @@
 - Clean Architecture & SOLID as the blueprint for decoupled, testable, and highly maintainable systems.
 - TypeScript & Node.js ecosystem used to build type-safe, resilient backend environments.
 - Data Structures & Algorithms (DSA) applied to solve complex problems with optimal time and space complexity.
-- Pragmatic Programming Style, prioritizing clarity, automation, and code that is "easy to change" over speculative features.
+- Pragmatic Programming, prioritizing clarity, automation, and code that is "easy to change" over speculative features.
 - Agile Execution via Scrum, ensuring iterative delivery, constant feedback loops, and high-velocity engineering.
 - Systems Design beyond business logic, focusing on observability, performance bottlenecks, and architectural consistency.
 
