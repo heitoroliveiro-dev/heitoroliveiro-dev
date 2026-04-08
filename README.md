@@ -27,8 +27,8 @@
 
 ## What I Am Exploring Now
 
-- Building more software with Elixir-first design
-- Studying Software Architecture and design in depth
+- Building fullstack projects exploring JS ecosystem
+- Studying Software Architecture and Design in depth
 - Improving algorithms and logic skills
 - Writing systems that are easier to reason about, test, and growth
 
