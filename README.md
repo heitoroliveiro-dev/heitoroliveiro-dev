@@ -1,5 +1,5 @@
 <h1 align="left">Heitor Oliveiro</h1>
-<p align="center">
+<p align="left">
   Building safe, consistent JS ecosystems by leveraging Clean Architecture and proven design patterns. 
   I focus on transforming intricate requirements into predictable systems where technical debt is       
   minimized and clarity is the default.
