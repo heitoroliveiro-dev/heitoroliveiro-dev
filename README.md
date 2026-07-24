@@ -1,8 +1,8 @@
 <h1 align="left">Heitor Oliveiro</h1>
 <p align="left">
-  Building safe, consistent JS ecosystems by leveraging Clean Architecture and proven design patterns. 
-  I focus on transforming intricate requirements into predictable systems where technical debt is       
-  minimized and clarity is the default.
+  Software Engineer turning complex requirements into resilient, well-architected systems.
+  I combine Clean Architecture and proven design patterns with applied AI engineering —
+  building software that stays predictable and maintainable as systems and technologies evolve.
 </p>
 
 ---
@@ -15,31 +15,23 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-
 ## Core Focus
+- Software Architecture & SOLID as the blueprint for decoupled, testable, and maintainable systems.
+- Applied AI Engineering — integrating and evaluating AI capabilities within production-grade systems, not just prototyping with them.
+- Systems grounded in production reality: observability, security, and operational resilience, informed by hands-on experience with infrastructure (servers, containers, networking, cloud).
+- Pragmatic Engineering, prioritizing clarity, automation, and code that is easy to change over speculative complexity.
+- Agile Execution via Scrum, ensuring iterative delivery and constant feedback loops.
 
-- Clean Architecture & SOLID as the blueprint for decoupled, testable, and highly maintainable systems.
-- TypeScript & Node.js ecosystem used to build type-safe, resilient backend environments.
-- Data Structures & Algorithms (DSA) applied to solve complex problems with optimal time and space complexity.
-- Pragmatic Programming, prioritizing clarity, automation, and code that is "easy to change" over speculative features.
-- Agile Execution via Scrum, ensuring iterative delivery, constant feedback loops, and high-velocity engineering.
-- Systems Design beyond business logic, focusing on observability, performance bottlenecks, and architectural consistency.
-
-## What I Am Exploring Now
-
-- Building fullstack projects exploring JS ecosystem
-- Studying Software Architecture and Design in depth
-- Improving algorithms and logic skills
-- Writing systems that are easier to reason about, test, and growth
+## What I Am Building Toward
+- Deepening Software Architecture and Cloud Computing fundamentals.
+- Studying applied AI Engineering — how to design, integrate, and operate systems that use AI responsibly and safely.
+- Bridging infrastructure/operations knowledge with software architecture to build systems that hold up in production, not just in theory.
+- Turning that combination into fullstack projects that document the reasoning behind each architectural decision.
 
 ## Get In Touch
-
 <p align="left">
   <a href="https://www.linkedin.com/in/heitoroliveiro/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://heitoroliveiro.com">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:heitoroliveiro.dev@outlook.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=outlook&logoColor=white" />
