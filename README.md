@@ -7,14 +7,6 @@
 
 ---
 
-## Main Stack
-<p align="left">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
 ## Core Focus
 - Software Architecture & SOLID as the blueprint for decoupled, testable, and maintainable systems.
 - Applied AI Engineering — integrating and evaluating AI capabilities within production-grade systems, not just prototyping with them.
